@@ -1,1 +1,1 @@
-# weds-sysproject
+Wedding Event Management System
